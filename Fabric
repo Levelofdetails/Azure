@@ -10,7 +10,30 @@ https://app.powerbi.com (Power bi Service)
 
 Power BI:
 
-Dataflows are doing the data cleaning in power bi Service
+Dataflows are doing the data cleaning in power bi Service  - gen1
 
 Dataflow Gen1 and Dataflow Gen2
+
+Azure - Power Query -> Dataflow gen 2
+
+Fabric (Lake house) similar to Azure ADlS
+
+
+Sample Lake House:
+Medalian Architecture:
+Bronze
+Silver 
+Gold
+
+
+Diff bw Lake house and Warehouse
+
+Lake House (Files and tables)
+Warehouse (tables) - OLAP services
+
+
+
+
+
+
 
